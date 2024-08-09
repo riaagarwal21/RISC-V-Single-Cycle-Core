@@ -8,3 +8,8 @@ The core components of a single cycle processor include the instruction fetch un
 ## Usage
 
 To get a local copy of the project, you can clone the repository.
+
+## Simulation Results
+
+<!--Image-->
+
