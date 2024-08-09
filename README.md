@@ -7,6 +7,4 @@ The core components of a single cycle processor include the instruction fetch un
 
 ## Usage
 
-To get a local copy of the project, you can clone the repository using the below mentioned command:
-
-      git clone https://github.com/riaagarwal21/RISC-V-Single-Cycle-Core
+To get a local copy of the project, you can clone the repository.
