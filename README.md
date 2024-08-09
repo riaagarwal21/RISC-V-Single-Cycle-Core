@@ -13,3 +13,4 @@ To get a local copy of the project, you can clone the repository.
 
 <!--Image-->
 
+![WAVEFORM_RISCV](https://github.com/user-attachments/assets/7e4f3292-0df5-4d9d-820b-c05fcc9fb003)
