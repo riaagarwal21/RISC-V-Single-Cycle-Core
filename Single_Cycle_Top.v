@@ -1,6 +1,4 @@
 // Code your design here
-//video 7
-//single_cycle_top
 
 `include "PC.v"
 `include "Instruction_Memory.v"
